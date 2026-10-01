@@ -19,13 +19,6 @@
 ✨ Interested in creating new projects  
 📚 Always learning something new  
 
----
-
-## 💻 My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,github,vscode" />
-</p>
 
 ---
 
