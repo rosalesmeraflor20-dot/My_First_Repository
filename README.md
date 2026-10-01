@@ -1,3 +1,4 @@
+
 <!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
